@@ -1,0 +1,26 @@
+Task - 1 :
+
+Data is listed below for one ticker symbol. Create a table in a database (Postgres or MySQL). Use Python to insert data into the database.
+
+
+
+Task 2 :
+
+Use Python to analyze data and create an investing/trading strategy of your choice. If you are not aware of any strategy: use simple moving average crossover
+Submit the result of how your strategy is performing.
+
+ 
+Task 3 :
+
+Test Case:
+Write a unit testing module with the test cases below:
+Check if input data is valid ( Open High Low Close need to be decimals), volume needs to be integer, instrument needs to be String, datetime needs to be datetime
+
+ 
+
+Data:
+
+docs.google.com/spreadsheets/d/1-rIkEb94tZ69FvsjXnfkVETYu6rftF-8/edit?rtpof=true
+
+ 
+
